@@ -11,4 +11,5 @@ public class PrimeNumber_Alison {
         }
         return true;
     }
+    system.println("isPrime");
 }
